@@ -3,6 +3,8 @@
 
 .header{
     background-color: chocolate;
+    width: 100%;
+    height: 65px;
 }
 
 /* MAIN */
@@ -10,4 +12,13 @@
     background-color: brown;
 }
 
+.main__header{
+    background-color: cyan;
+}
 
+
+/* FOOTER */
+
+.footer{
+    background-color: coral;
+}
